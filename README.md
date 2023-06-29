@@ -1,2 +1,2 @@
 # chatapp
- Laravel real time chat app using Ratchet
+ Laravel real time chat app using Ratchet WebSocket
